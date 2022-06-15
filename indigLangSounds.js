@@ -47,7 +47,7 @@ export class langHandler {
             
             if($sPaths == false || $sPaths == undefined) continue
             
-            console.log($sPaths);
+            //console.log($sPaths);
             
             for(const sPath of $sPaths){
                 
