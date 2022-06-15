@@ -45,7 +45,7 @@ export class langHandler {
             
             let $sPaths = this.FindMatchingPhrase(lang,ph,searchByEngPhrase).soundFiles;
             
-            if($sPaths == false) continue
+            if($sPaths == false || $sPaths == undefined) continue
             
             console.log($sPaths);
             
