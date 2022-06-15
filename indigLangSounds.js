@@ -1,6 +1,6 @@
-import {PlaySequentialSounds} from "./../soundUtil.js";
+import {PlaySequentialSounds} from "./soundUtil.js";
 import {ojibwemowinDict} from "./ojibwemowin.js";
-import {ArrArgHelper} from "./../utils.js";
+import {ArrArgHelper} from "./utils.js";
 
 export class langHandler {
     
