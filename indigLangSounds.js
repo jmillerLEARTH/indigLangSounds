@@ -45,6 +45,8 @@ export class langHandler {
             
             if($sPaths == false) continue
             
+            console.log($sPaths);
+            
             for(const sPath of $sPaths){
                 
                 $sounds.push(sPath);
