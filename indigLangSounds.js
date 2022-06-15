@@ -64,7 +64,7 @@ export class langHandler {
             
             let $searchKey = phraseArr[i];
             
-            let $phrase = String(this.GetPhrase(lang,$searchKey,true));
+            let $phrase = String(this.FindMatchingPhrase(lang,$searchKey,true));
             
             if ($phrase == "false") continue
             
