@@ -16,6 +16,8 @@ export class langHandler {
     
     FindMatchingPhrase(lang,phrase,searchByEngPhrase=false){
         
+        phrase = String(phrase).toLowerCase();
+        
         let $dictToSearch;
         
         let $evalPhrase;
