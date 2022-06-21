@@ -61,7 +61,7 @@ export const ojibwemowinDict = [
     engPhrase: "porcupine",
     groups: ["animal","noun","traditional"],
     syllables: 1,
-    soundFiles: ["https://s3.amazonaws.com/ojibwe-audio-transcoded/gaag__na_sg__njni609050_2.mp4""]
+    soundFiles: ["https://s3.amazonaws.com/ojibwe-audio-transcoded/gaag__na_sg__njni609050_2.mp4"]
     },
     
     {
