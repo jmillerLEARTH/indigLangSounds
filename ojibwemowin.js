@@ -28,6 +28,43 @@ export const ojibwemowinDict = [
     },
     
     {
+    phrase: "giigoonh",
+    lang: "ojibwemowin",
+    engPhrase: "fish",
+    groups: ["animal","noun","traditional"],
+    syllables: 2,
+    soundFiles: ["https://s3.amazonaws.com/ojibwe-audio-transcoded/giigoonh__na_sg__gh68521_2.mp4"]
+    },
+    
+    {
+    phrase: "zhede",
+    lang: "ojibwemowin",
+    engPhrase: "pelican",
+    groups: ["animal","noun","traditional"],
+    syllables: 2,
+    soundFiles: ["https://s3.amazonaws.com/ojibwe-audio-transcoded/zhede_na__sg___nj520110.mp4"]
+    },
+                 
+    {
+    phrase: "es",
+    lang: "ojibwemowin",
+    engPhrase: "clam",
+    groups: ["animal","noun","traditional"],
+    syllables: 1,
+    soundFiles: ["https://s3.amazonaws.com/ojibwe-audio-transcoded/es_ni__sg___gj512073.mp4"]
+    },
+    
+    
+    {
+    phrase: "gaag",
+    lang: "ojibwemowin",
+    engPhrase: "porcupine",
+    groups: ["animal","noun","traditional"],
+    syllables: 1,
+    soundFiles: ["https://s3.amazonaws.com/ojibwe-audio-transcoded/gaag__na_sg__njni609050_2.mp4""]
+    },
+    
+    {
     phrase: "makwa",
     lang: "ojibwemowin",
     engPhrase: "bear",
